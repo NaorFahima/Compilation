@@ -1,0 +1,5 @@
+a = iota;
+int foo;
+float bar = 2;
+b = iota;
+c = iota;
