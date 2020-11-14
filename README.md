@@ -1,2 +1,2 @@
-# Course-Compilation
-Homework in the Compilation course
+# Compilation
+Compilation projects with flex & bison
